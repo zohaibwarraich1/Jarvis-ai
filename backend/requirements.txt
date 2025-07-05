@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+speechrecognition
+pywhatkit
+numpy
+google-generativeai
+pyttsx3
+python-dotenv
